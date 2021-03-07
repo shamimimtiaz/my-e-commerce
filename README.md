@@ -55,13 +55,13 @@ Dotenv
 https://github.com/shamimimtiaz/my-e-commerce.git
 
 
-#DEMO:01 (Demonested mysql, GET routes to return all categories, all products, and all tags being tested in Insomnia Core)
+#DEMO:01 (Demonstrated mysql, GET routes to return all categories, all products, and all tags being tested in Insomnia Core)
 ![DEMO1_Mar 6, 2021 8_57 PM](https://user-images.githubusercontent.com/75001492/110227402-369fd180-7ec6-11eb-9e58-de3859f2c515.gif)
 
-#DEMO:02 (Demonested GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core)
+#DEMO:02 (Demonstrated GET routes to return a single category, a single product, and a single tag being tested in Insomnia Core)
 ![DEMO2_ Mar 6, 2021 9_09 PM](https://user-images.githubusercontent.com/75001492/110227462-bded4500-7ec6-11eb-899b-5d88fcde3601.gif)
 
-#DEMO:03 (Demonested POST, PUT, and DELETE routes for categories being tested in Insomnia Core)
+#DEMO:03 (Demonstrated POST, PUT, and DELETE routes for categories being tested in Insomnia Core)
 ![DEMO3_ Mar 6, 2021 9_21 PM](https://user-images.githubusercontent.com/75001492/110227488-eaa15c80-7ec6-11eb-93cb-81937bfcbe5b.gif)
 
 #DEMO:04 (POST, PUT, and DELETE routes for tags being tested in Insomnia Core)
