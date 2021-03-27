@@ -1,10 +1,3 @@
-
-
-# Envoy-Product
-A Hub for memebers to post, rate, review and talk about environmentally friendly products!
-
-## Table Of Content
-* [General Info](#general-info)
 # Envoy-Product
 A Hub for memebers to post, rate, review and talk about environmentally friendly products!
 
@@ -68,42 +61,41 @@ This application is deployed on Heroku at https://envoy-guide.herokuapp.com/
 <br>
 There are three types of access
 	<br>
-	Admin access
+	*Admin access
 	<br>
-	General access
+	*General access
 	<br>
-	Visitor access
-
+	*Visitor access
 <br>
 Admin status assigned users will have full access to the site which includes <br>
-	full access to all content for general users
+	-Full access to all content for general users
 	<br>
-	ability to approve articles posted by general users
+	-Ability to approve articles posted by general users
 	<br>
-	ability to approve products being posted by general users.  
+	-Ability to approve products being posted by general users.  
 <br>
 General access allows one to <br>
-	view all web content including featured/approved product and articles
+	-View all web content including featured/approved product and articles
 	<br>
-	Products can be viewed by product or retailer category.
+	-Products can be viewed by product or retailer category.
 	<br>
-	create user profile
+	-Create user profile
 	<br>
-	upload content (which requires approval by admin for others to view)
+	-Upload content (which requires approval by admin for others to view)
 	<br>
-	Post products (which requires approval by admin for others to view)
+	-Post products (which requires approval by admin for others to view)
 	<br>
-	Create/Edit their profile as needed
+	-Create/Edit their profile as needed
 	<br>
-	Comment on existing articles posted on the site. 
+	-Comment on existing articles posted on the site. 
 
 <br>
 Visitor access allows one to <br>
-	view all web content including featured/approved product and articles
+	-View all web content including featured/approved product and articles
 	<br>
-	Products can be viewed by product or retailer category.
+	-Products can be viewed by product or retailer category.
 	<br>
-	has the option to become a member by creating a general access profile. 
+	-Has the option to become a member by creating a general access profile. 
 
  
 ## License
@@ -116,13 +108,6 @@ This repository is licensed under the MIT license.
 
 ## Questions
 Questions about this repository? Please contact us at [envoyproducts90@gmail.com](mailto:envoyproducts90@gmail.com). View more of our work in GitHub at [Envoy-Products](https://github.com/Envoy-products/Envoy-Products) 
-
-
-
-
-
-
-
 
 
 
