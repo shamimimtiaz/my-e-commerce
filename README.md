@@ -73,6 +73,7 @@ There are three types of access
 	General access
 	<br>
 	Visitor access
+
 <br>
 Admin status assigned users will have full access to the site which includes <br>
 	full access to all content for general users
@@ -95,6 +96,7 @@ General access allows one to <br>
 	Create/Edit their profile as needed
 	<br>
 	Comment on existing articles posted on the site. 
+
 <br>
 Visitor access allows one to <br>
 	view all web content including featured/approved product and articles
